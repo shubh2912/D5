@@ -1,0 +1,67 @@
+.logo-header {
+    font-family: Poppins;
+    font-size: 65px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: white;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+    line-height: 72px;
+}
+
+.row-header {
+    margin-left: 80px;
+}
+
+.header {
+    height: 80px;
+    padding-top: 5px;
+    background-color: #ce0505;
+}
+
+.login {
+    width: 44px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 4.56;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-left: 33%;
+}
+
+.rectangle {
+    width: 160px;
+    height: 40px;
+    border-radius: 7px;
+    border: solid 1px #ffffff;
+    float: right;
+    margin-right: 80px;
+    margin-top: -2%;
+}
+
+.account {
+    width: 152px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}

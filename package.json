@@ -1,0 +1,23 @@
+{
+  "name": "Food-Delivery-App",
+  "version": "0.1.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "query-string": "^6.12.1",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-bootstrap-typeahead": "^4.2.2",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-tabs": "^3.1.0",
+    "react-typeahead": "^2.0.0-alpha.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build"
+  }
+}
