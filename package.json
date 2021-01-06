@@ -2,7 +2,7 @@
   "name": "Food-Delivery-App",
   "version": "0.1.0",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "query-string": "^6.12.1",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
